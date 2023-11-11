@@ -1,7 +1,7 @@
-- 👋 Welcome to **CodingWeb**
+- 👋 Welcome to **XD Code**
 - 👀 We are interested in Web Development including HTML, CSS & JavaScript
-- 🎬 YouTube | [CodingWeb](https://www.youtube.com/@CodingWeb3 "CodingWeb")
-- 📷 Instagram | [CodingWeb](https://www.instagram.com/codingweb3/ "CodingWeb")
+- 🎬 YouTube | [XD Code](https://www.youtube.com/@_xdcode_ "XD Code")
+- 📷 Instagram | [XD Code](https://www.instagram.com/_xdcode_/ "XD Code")
 
 
 
